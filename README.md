@@ -38,19 +38,23 @@ class WhoAmI:
 
 ### ❓ Some Things I Can Help You With
 
-    🏛️ Design and implement scalable architectures in microservices and monolithic environments, following best practices for modularity and design patterns.
+🏛️ Design and implement scalable architectures in microservices and monolithic environments, following best practices for modularity and design patterns.
 
-    🛰️ Implement IoT solutions and real-time data handling, from ingestion (MQTT, Kafka) to storage and analytics in time-series databases.
+🛰️ Implement IoT solutions and real-time data handling, from ingestion (MQTT, Kafka) to storage and analytics in time-series databases.
 
-    🚀 Guide development teams and coordinate agile methodologies (Scrum) to deliver continuous value and foster collaboration.
+🚀 Guide development teams and coordinate agile methodologies (Scrum) to deliver continuous value and foster collaboration.
 
-    🎓 Provide internal mentorship and training, elevating team skills through code reviews, pair programming, and workshop sessions.
+🎓 Provide internal mentorship and training, elevating team skills through code reviews, pair programming, and workshop sessions.
 
-##
+
 <div align="center">
 💬 Like to meet me? Ask me about
 <img src="askme_mix.png">
 </div>
+
+
+# 🔑 The key: Write maintainable code that humans can understand 
+
 
 <!-- ### Hey,[Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
