@@ -1,7 +1,6 @@
-## Welcome 👋
+## Welcome 👋 I am Sisley
 
-![SisleyInTech Banner](banner_sisleyintech.png)
-
+![SisleyInTech Banner](sisleyintech_portfolio.png)
 Committed to creating innovative and scalable solutions in harmonious environments that truly contribute to society, understanding that to add value it is necessary to focus on continuous learning and adaptation to new technologies.
 ### Who am I?
 ```python
